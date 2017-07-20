@@ -1,0 +1,9 @@
+[
+  {
+    "Id": "a5dac784-6653-4386-ab52-c8a3b92f5652",
+    "Name": "TrainingTesting",
+    "Category": "",
+    "Address": ".../",
+    "Repository": "http://localhost:8080/trainingtesting/services/rest/data"
+  }
+]
